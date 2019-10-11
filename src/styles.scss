@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.container {
+  padding: 15px;
+}
+
+.example-icon {
+  padding: 0 14px;
+}
+
+.example-spacer {
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.example-card {
+  max-width: 480px;
+  margin-bottom: 15px;
+}
