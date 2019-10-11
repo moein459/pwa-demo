@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1570791124029,
-  "index": "/pwa-demo/index.html",
+  "timestamp": 1570794007778,
+  "index": "/pwa-demo/pwa-demo/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -10,8 +10,8 @@
       "urls": [
         "/pwa-demo/favicon.ico",
         "/pwa-demo/index.html",
-        "/pwa-demo/main-es2015.070430686191d1e34aaf.js",
-        "/pwa-demo/main-es5.070430686191d1e34aaf.js",
+        "/pwa-demo/main-es2015.69d546a67061d9b39fb3.js",
+        "/pwa-demo/main-es5.69d546a67061d9b39fb3.js",
         "/pwa-demo/manifest.webmanifest",
         "/pwa-demo/polyfills-es2015.0ef207fb7b4761464817.js",
         "/pwa-demo/polyfills-es5.2b9ce34c123ac007a8ba.js",
@@ -49,10 +49,10 @@
     "/pwa-demo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/pwa-demo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/pwa-demo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/pwa-demo/index.html": "a15911f39459b5d04e457cd82d74d87f293c7480",
-    "/pwa-demo/main-es2015.070430686191d1e34aaf.js": "efd119242f774a7367a254751b7f116db2749156",
-    "/pwa-demo/main-es5.070430686191d1e34aaf.js": "5cfedeb2c80c5ed1a5ea27c174998388decd3f0e",
-    "/pwa-demo/manifest.webmanifest": "da5060a092c93f3f0785cbcb31fbc7741ea90bf2",
+    "/pwa-demo/index.html": "369f4d7c13c9ff029281690624bc188d54c55adf",
+    "/pwa-demo/main-es2015.69d546a67061d9b39fb3.js": "8e6d11b5183b3668cbd46243b38059ee09cdac1c",
+    "/pwa-demo/main-es5.69d546a67061d9b39fb3.js": "88e6ffdb67f565b62a49effb37c1a9fe4f2d1758",
+    "/pwa-demo/manifest.webmanifest": "ee9bd9b8bfc8f32ef1d4c52e588f64b2a52207ed",
     "/pwa-demo/polyfills-es2015.0ef207fb7b4761464817.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
     "/pwa-demo/polyfills-es5.2b9ce34c123ac007a8ba.js": "45c51483238468881240579c3fdecd19144cff17",
     "/pwa-demo/runtime-es2015.e8a2810b3b08d6a1b6aa.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
