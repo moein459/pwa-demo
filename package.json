@@ -7,7 +7,8 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "deploy": "ng deploy --base-href=/pwa-demo/"
   },
   "private": true,
   "dependencies": {
@@ -23,6 +24,7 @@
     "@angular/pwa": "^0.803.9",
     "@angular/router": "~8.2.9",
     "@angular/service-worker": "~8.2.9",
+    "angular-cli-ghpages": "^0.6.0",
     "hammerjs": "^2.0.8",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
